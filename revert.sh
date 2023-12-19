@@ -1,3 +1,4 @@
+# Currently this file doesn't properly rebind the ttys but I just blindly type my password and I'm back in a graphical session
 #!/bin/bash
 set -x
   
